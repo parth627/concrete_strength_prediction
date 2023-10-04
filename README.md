@@ -1,6 +1,6 @@
 ## Concrete Compressive Strength Prediction
 
-*Dataset :* [link](https://www.kaggle.com/maajdl/yeh-concret-data)
+*Dataset:* [link](https://www.kaggle.com/maajdl/yeh-concret-data)
 
 ## Overview:
 - Concrete is the most important material in civil/structural engineering.
